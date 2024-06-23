@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 40px;
+    width: 800px;
+}
+p {
+    margin: 0 0 10px;
+    font-size: 1em;
+    line-height: 1.42857143;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 10px 0;
+}
+footer {
+    display: block;
+    position: scroll;
+    bottom: 0;
+    width: 100%;
+    border-top: 1px solid #e5e5e5;
+    color: #777;
+}
