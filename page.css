@@ -4,8 +4,9 @@ document {
 body {
     margin: 0;
     padding: 40px;
-    width: 800px;
+    max-width: 1000px;
     min-height: 100%;
+    font-size: 1.7em;
 }
 p {
     margin: 0;
