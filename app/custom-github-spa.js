@@ -9,6 +9,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 };
 const POST_PATH_PART = "posts";
 const PAGES_PATH_PART = "pages";
+const AUTHOR = "Daniel Wiltshire Leppänen";
 const getPathParts = (url) => {
     return url.split('/').filter(part => part !== '');
 };
@@ -193,7 +194,7 @@ const loadView = (url, element, postDecorator, pageLinkCallback) => {
         console.log(`loadView: pathParts: ${pathParts}`);
         if (pathParts.includes(POST_PATH_PART)) {
             getPost(pathParts[pathParts.length - 1]).then(post => {
-                setWindowTitle(post.title);
+                setWindowTitle(`${post.title} - ${AUTHOR}`);
                 fetchView(`${ROOT_PATH}/_posts/${post.file}`, `posts/${post.file}`, post.title)
                     .then(content => {
                     element.innerHTML = postDecorator !== undefined ? postDecorator(content) : content;
@@ -207,7 +208,7 @@ const loadView = (url, element, postDecorator, pageLinkCallback) => {
         }
         else if (pathParts.includes(PAGES_PATH_PART)) {
             getPage(pathParts[pathParts.length - 1]).then(page => {
-                setWindowTitle(page.title);
+                setWindowTitle(`${page.title === "🏠" ? "Home" : page.title} - ${AUTHOR}`);
                 fetchView(`${ROOT_PATH}/_pages/${page.file}`, `pages/${page.file}`, page.title)
                     .then(content => {
                     element.innerHTML = content;

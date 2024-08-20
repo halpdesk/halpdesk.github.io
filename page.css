@@ -186,7 +186,7 @@ img {
 pre {
     /* word-wrap: break-word; */
     overflow-x: scroll;
-    white-space: pre-wrap;
+    
     font-size: 0.875em;
     line-height: 1.42857143em;
     color: #333;
@@ -195,19 +195,17 @@ pre {
     border-radius: 4px;
     padding: 10px;
     margin: 10px 0;
+    white-space: pre;
 }
 
 pre code {
     font-family: 'LiberationMono', monospace;
 }
 
-pre > code.no-wrap, pre > code.nowrap {
-    white-space: pre;
-}
-
 pre:has(code:not([class]), code.no-wrap, code.nowrap) {
     background: none;
     border: 1px solid #eee;
+    white-space: pre-wrap;
 }
 
 pre:has(code:not([class]), code.no-wrap, code.nowrap) code {
@@ -216,7 +214,6 @@ pre:has(code:not([class]), code.no-wrap, code.nowrap) code {
 
 /* SHELL */
 pre > code.shell, pre > code.language-shell {
-    white-space: pre;
     color: #f8f8f8;
 }
 
@@ -238,6 +235,7 @@ pre:has(code.poem, code.language-poem) {
     padding: 0;
     border: none;
     margin: 40px 10px;
+    white-space: pre-wrap;
 }
 
 h1,h2,h3,h4 {

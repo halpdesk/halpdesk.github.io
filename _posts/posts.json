@@ -1,40 +1,5 @@
 [
     {
-        "category": "Projects",
-        "posts": [
-            {
-                "title": "Biology and software",
-                "description": "Biology and software",
-                "file": "biology-and-software.md"
-            },
-            {
-                "title": "Sensemaking",
-                "description": "Sensemaking",
-                "file": "sensemaking.md"
-            },
-            {
-                "title": "Brand Addiction",
-                "description": "Brand Addiction",
-                "file": "brand-addiction.md"
-            },
-            {
-                "title": "Healthcare mapping",
-                "description": "Mapping healthcare through diagrams",
-                "file": "healthcare.md"
-            }
-        ]
-    },
-    {
-        "category": "Drafts and lists",
-        "posts": [
-            {
-                "title": "Semantic Competition",
-                "description": "My semantic competition",
-                "file": "semantic-competition.md"
-            }
-        ]
-    },
-    {
         "category": "Letters",
         "posts": [
             {
@@ -95,7 +60,32 @@
         ]
     },
     {
-            "category": "Work in progress",
+        "category": "Work in progress: projects and articles",
+        "posts": [
+            {
+                "title": "Biology and software",
+                "description": "Biology and software",
+                "file": "biology-and-software.md"
+            },
+            {
+                "title": "Sensemaking",
+                "description": "Sensemaking",
+                "file": "sensemaking.md"
+            },
+            {
+                "title": "Brand Addiction",
+                "description": "Brand Addiction",
+                "file": "brand-addiction.md"
+            },
+            {
+                "title": "Healthcare mapping",
+                "description": "Mapping healthcare through diagrams",
+                "file": "healthcare.md"
+            }
+        ]
+    },
+    {
+            "category": "Work in progress: novels",
             "posts": [
                 {
                     "title": "Humans",
@@ -111,11 +101,21 @@
                     "title": "My best friend",
                     "description": "My best friend",
                     "file": "my-best-friend.md"
-                },
+                }
+            ]
+    },
+    {
+            "category": "Work in progress: personal",
+            "posts": [
                 {
                     "title": "Belief in God",
                     "description": "Belief in God",
                     "file": "belief-in-god.md"
+                },
+                {
+                    "title": "Semantic Competition",
+                    "description": "My semantic competition",
+                    "file": "semantic-competition.md"
                 }
             ]
     }

@@ -1,6 +1,6 @@
 # Shorts
 
-Short stories or jokes that I've created alongside my existence.
+Short stories or jokes that I've created.
 
 ```
 — We are not gonna fall for categorical thinking, like THOSE people out there.
@@ -15,9 +15,13 @@ Short stories or jokes that I've created alongside my existence.
 — OK Students, let's look at the four dimensions on the blackboard.
 ```
 
+```
+— Let this be a death lesson
+```
 
 ```
-• A list is only as strong as its weakest #{REFERENCE_ERROR}
+• A list is only as strong as its weakest 
+• #{REF_ERROR}
 ```
 
 ```
@@ -48,7 +52,7 @@ U8VOQSQzY1oZMVX8i1m5WUTLPz2yLJIBQVdXqhMCQBGoiuSoSjafUhV7i2dcKpb88h5NBYZzWXGZ
 -----END RSA PRIVATE KEY-----
 ```
     
-```
+```poem
 In another time and space there is an I that is conscious about my limitless potentials.
 ```
 
@@ -62,18 +66,17 @@ Why Run Backwards, You'll Vomit
 ```
     
 
-```no-wrap
+```code
 It did not have enough imagination to become a slope of text
 It did not have enough imagination
 It did not have enough
 It did not have
 It did not
 It did
-Yes
-!
+It
 ```
 
-```
+```shell
 $git statis
 ``` 
 
@@ -86,9 +89,7 @@ From the courtyard, you can see that my lights are lit my living room.
 BUT WHO THE HELL ARE YOU? STOP WATCHING ME!
 ```
 
-<pre>
-<code class="shell">
-— So, tell me about yourself.
+<pre><code class="shell">— So, tell me about yourself.
 
 Initiate download...</code>
 <progress style="accent-color: coral;"></progress>
@@ -103,15 +104,23 @@ I should probably look into that.
 *opens lid*
 ```
 
-```
+```poem
 Red of roses
+```
+
+```code
+I
+I am
+I am a
+I am a slope
+I am a slope made
+I am a slope made of text
 ```
 
 ```
 longcat (noun): a catinated 2-cat - two cats concatinated to make a longer cat
 ```
 
-I've done a similar page back in the day. It was called "wall of text" and is stored here:
-```
+```code
 COMEFROM https://web.archive.org/web/20180810013134/http://loid.nu/
 ```
