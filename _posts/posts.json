@@ -1,0 +1,122 @@
+[
+    {
+        "category": "Projects",
+        "posts": [
+            {
+                "title": "Biology and software",
+                "description": "Biology and software",
+                "file": "biology-and-software.md"
+            },
+            {
+                "title": "Sensemaking",
+                "description": "Sensemaking",
+                "file": "sensemaking.md"
+            },
+            {
+                "title": "Brand Addiction",
+                "description": "Brand Addiction",
+                "file": "brand-addiction.md"
+            },
+            {
+                "title": "Healthcare mapping",
+                "description": "Mapping healthcare through diagrams",
+                "file": "healthcare.md"
+            }
+        ]
+    },
+    {
+        "category": "Drafts and lists",
+        "posts": [
+            {
+                "title": "Semantic Competition",
+                "description": "My semantic competition",
+                "file": "semantic-competition.md"
+            }
+        ]
+    },
+    {
+        "category": "Letters",
+        "posts": [
+            {
+                "title": "Message on AI",
+                "description": "Message on AI",
+                "file": "message-on-ai.md"
+            },
+            {
+                "title": "AI and UBI",
+                "description": "Message on universal basic income in the age of AI",
+                "file": "ai-and-ubi.md"
+            }
+        ]
+    },
+    {
+            "category": "Stories and poems",
+            "posts": [
+            {
+                "title": "Limitations",
+                "description": "Limitations",
+                "file": "limitations.md"
+            },
+            {
+                "title": "Kernel panic",
+                "description": "Kernel panic",
+                "file": "kernel-panic.md"
+            },
+            {
+                "title": "Stories in the future",
+                "description": "Stories in the future",
+                "file": "stories-in-the-future.md"
+            },
+            {
+                "title": "Mail to transport authority",
+                "description": "Mail to transport authority",
+                "file": "mail-to-ta.md"
+            },
+            {
+                "title": "Shorts",
+                "description": "Various shorts",
+                "file": "shorts.md"
+            },
+            {
+                "title": "Sex laxar",
+                "description": "Sex laxar",
+                "file": "sex-laxar.md"
+            },
+            {
+                "title": "Smart fooding",
+                "description": "Smart fooding",
+                "file": "smart-fooding.md"
+            },
+            {
+                "title": "Linguistically odd sentences",
+                "description": "Garden path and others",
+                "file": "garden-path.md"
+            }
+        ]
+    },
+    {
+            "category": "Work in progress",
+            "posts": [
+                {
+                    "title": "Humans",
+                    "description": "Humans",
+                    "file": "humans.md"
+                },
+                {
+                    "title": "The Clock Merchant",
+                    "description": "The Clock Merchant",
+                    "file": "the-clock-merchant.md"
+                },
+                {
+                    "title": "My best friend",
+                    "description": "My best friend",
+                    "file": "my-best-friend.md"
+                },
+                {
+                    "title": "Belief in God",
+                    "description": "Belief in God",
+                    "file": "belief-in-god.md"
+                }
+            ]
+    }
+]
