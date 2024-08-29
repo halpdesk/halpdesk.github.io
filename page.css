@@ -267,3 +267,24 @@ a {
     color: #E98A15;
     text-decoration: underline;
 }
+
+table {
+    table-layout: fixed;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-size: 1em;
+}
+
+table tr th {
+    font-size: 0.7em;
+    font-weight: 600;
+    border: 1px solid #e0e0e0;
+    background: #f0f0f0;
+}
+
+table tr td {
+    font-size: 0.8em;
+    padding: 0;
+    margin: 0;
+    border: 1px solid #e0e0e0;
+}

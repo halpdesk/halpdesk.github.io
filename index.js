@@ -9,6 +9,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 };
 import { run, getPostListWithCategories, getPageAnchors } from './app/custom-github-spa.js';
 var converter = new showdown.Converter();
+converter.setOption('tables', true);
 document.addEventListener('DOMContentLoaded', () => __awaiter(void 0, void 0, void 0, function* () {
     var _a;
     run("content", (content) => {

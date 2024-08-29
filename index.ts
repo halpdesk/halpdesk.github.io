@@ -2,6 +2,7 @@
 import {run, getPostListWithCategories, getPageAnchors, PageAnchor} from './app/custom-github-spa.js';
 
 var converter = new showdown.Converter();
+converter.setOption('tables', true);
 document.addEventListener('DOMContentLoaded', async () => {
     run(
         "content", 

@@ -15,6 +15,16 @@
         ]
     },
     {
+            "category": "My personal lists",
+            "posts": [
+            {
+                "title": "Books that I wish I own",
+                "description": "Books that I wish I own",
+                "file": "books-to-own.md"
+            }
+            ]
+    },
+    {
             "category": "Stories and poems",
             "posts": [
             {
