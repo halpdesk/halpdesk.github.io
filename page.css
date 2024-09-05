@@ -269,7 +269,7 @@ a {
 }
 
 table {
-    table-layout: fixed;
+    /* table-layout: fixed; */
     border-collapse: collapse;
     border-spacing: 0;
     font-size: 1em;
@@ -299,14 +299,20 @@ table tr td {
     border: 1px solid #e0e0e0;
     text-overflow: ellipsis;
     overflow: hidden;
-    max-width: 244px;
+    max-width: 276px;
     background: white;
 }
 
-table tr td:hover {
+table tr td:first-child {
+    color: #335599;
+}
+
+table tr td:first-child:hover,
+table tr td:first-child:hover ~ td {
     white-space: wrap;
-    position: absolute;
-    background: #f0f0f0;
+    position: relative;
+    background: #f4f4ff;
     top: 0;
     z-index: 10;
+    outline: 1px solid #e0e0e0;
 }
