@@ -275,6 +275,16 @@ table {
     font-size: 1em;
 }
 
+table tr {
+    white-space: nowrap;
+    overflow: hidden;
+    position: relative;
+}
+/* table tr:hover {
+    white-space: wrap;
+    overflow: unset;
+} */
+
 table tr th {
     font-size: 0.7em;
     font-weight: 600;
@@ -287,4 +297,16 @@ table tr td {
     padding: 0;
     margin: 0;
     border: 1px solid #e0e0e0;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    max-width: 244px;
+    background: white;
+}
+
+table tr td:hover {
+    white-space: wrap;
+    position: absolute;
+    background: #f0f0f0;
+    top: 0;
+    z-index: 10;
 }
