@@ -3,7 +3,7 @@
 ```poem
 Hello dear Sirs/Madames,
 
-It is the second time I had to run to the school to pick up my daughter, and it's freezing outside. I think you should compare your time tables to the actual departures for your public transports, and you will find that you are lacking in the arriving-in-time department. And you will find that you can kill two birds with one stone. 
+It is the second time I had to run to the school to pick up my daughter, and it's freezing outside. I think you should compare your time tables to the actual departures for your public transports, and you will find that you are lacking in the arriving-in-time department, and that you can kill two birds with one stone. 
 
 The first one is people who complains a lot (though I am just reaching out with a solution), even though I lost my essentials on my way to school - yes, it's that cold - literally).
 
@@ -15,14 +15,14 @@ I am also a problem solver, and I look for solutions outside the box. Who care's
 
 When people arrive on time, everything is good. When people arrive late, everything is bad. It is actually so much so gooder that Maslow would need to re-create his triangle; not only do we need food, water, and shelter, but we also need to be "in location A on time Z" for it (the feeding, drinking, sleeping, etc.) to happen. You can see that I also understand the customers', the good people in our fair city. Right?
 
-Anyway, I am looking forward to hearing from you!
+Anyway, I am looking forward to hear from you!
 
 Best regards,
 Dad
 
 P.S. I forgot to say that the stone in the (first) analogy is that you should hire me
 
-P.P.S. Contact information: +4671360693, Daniel Leppänen, programmer
+P.P.S. Contact information: +4671360693, Adnrew Johnsson, programmer
 
 P.P.P.S. I also have personal interest in this, and it is for my daughter to arrive on time. The next generation is important because who else will take over the very advanced and supoer-complex problems of the future of transport? I'm here for the long run.
 

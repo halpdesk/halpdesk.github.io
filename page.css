@@ -185,7 +185,7 @@ img {
 
 pre {
     /* word-wrap: break-word; */
-    overflow-x: scroll;
+    overflow-x: visible;
     
     font-size: 0.875em;
     line-height: 1.42857143em;

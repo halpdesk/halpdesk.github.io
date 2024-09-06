@@ -11,41 +11,41 @@
                 "title": "AI and UBI",
                 "description": "Message on universal basic income in the age of AI",
                 "file": "ai-and-ubi.md"
-            }
-        ]
-    },
-    {
-            "category": "My personal lists",
-            "posts": [
-            {
-                "title": "Books that I wish I own",
-                "description": "Books that I wish I own",
-                "file": "books-to-own.md"
-            }
-            ]
-    },
-    {
-            "category": "Stories and poems",
-            "posts": [
-            {
-                "title": "Limitations",
-                "description": "Limitations",
-                "file": "limitations.md"
-            },
-            {
-                "title": "Kernel panic",
-                "description": "Kernel panic",
-                "file": "kernel-panic.md"
-            },
-            {
-                "title": "Stories in the future",
-                "description": "Stories in the future",
-                "file": "stories-in-the-future.md"
             },
             {
                 "title": "Mail to transport authority",
                 "description": "Mail to transport authority",
                 "file": "mail-to-ta.md"
+            }
+        ]
+    },
+    {
+        "category": "My personal lists",
+        "posts": [
+            {
+                "title": "Reading project 2025-2030",
+                "description": "Books that I wish I own",
+                "file": "history-of-ideas-books.md"
+            },
+            {
+                "title": "Books, movies, series, articles and internet that I have consumed",
+                "description": "Media experiences",
+                "file": "media-experiences.md"
+            },
+            {
+                "title": "Semantic Competition",
+                "description": "My semantic competition",
+                "file": "semantic-competition.md"
+            }
+        ]
+    },
+    {
+        "category": "Stories and poems",
+        "posts": [
+            {
+                "title": "Poems",
+                "description": "Poems",
+                "file": "poems.md"
             },
             {
                 "title": "Shorts",
@@ -53,24 +53,19 @@
                 "file": "shorts.md"
             },
             {
-                "title": "Sex laxar",
-                "description": "Sex laxar",
-                "file": "sex-laxar.md"
+                "title": "Stories in the future",
+                "description": "Stories in the future",
+                "file": "stories-in-the-future.md"
             },
             {
-                "title": "Smart fooding",
-                "description": "Smart fooding",
-                "file": "smart-fooding.md"
-            },
-            {
-                "title": "Linguistically odd sentences",
-                "description": "Garden path and others",
-                "file": "garden-path.md"
+                "title": "Linguistically odd/fun sentences",
+                "description": "Garden path sentences and others",
+                "file": "ling-fun.md"
             }
         ]
     },
     {
-        "category": "Work in progress: projects and articles",
+        "category": "Work in progress/drafts: projects and articles",
         "posts": [
             {
                 "title": "Biology and software",
@@ -91,42 +86,33 @@
                 "title": "Healthcare mapping",
                 "description": "Mapping healthcare through diagrams",
                 "file": "healthcare.md"
+            },
+            {
+                "title": "Drafts",
+                "description": "Drafts for articles",
+                "file": "drafts.md"
             }
+            
         ]
     },
     {
-            "category": "Work in progress: novels",
-            "posts": [
-                {
-                    "title": "Humans",
-                    "description": "Humans",
-                    "file": "humans.md"
-                },
-                {
-                    "title": "The Clock Merchant",
-                    "description": "The Clock Merchant",
-                    "file": "the-clock-merchant.md"
-                },
-                {
-                    "title": "My best friend",
-                    "description": "My best friend",
-                    "file": "my-best-friend.md"
-                }
-            ]
-    },
-    {
-            "category": "Work in progress: personal",
-            "posts": [
-                {
-                    "title": "Belief in God",
-                    "description": "Belief in God",
-                    "file": "belief-in-god.md"
-                },
-                {
-                    "title": "Semantic Competition",
-                    "description": "My semantic competition",
-                    "file": "semantic-competition.md"
-                }
-            ]
+        "category": "Work in progress: novels",
+        "posts": [
+            {
+                "title": "Humans",
+                "description": "Humans",
+                "file": "humans.md"
+            },
+            {
+                "title": "The Clock Merchant",
+                "description": "The Clock Merchant",
+                "file": "the-clock-merchant.md"
+            },
+            {
+                "title": "My best friend",
+                "description": "My best friend",
+                "file": "my-best-friend.md"
+            }
+        ]
     }
 ]

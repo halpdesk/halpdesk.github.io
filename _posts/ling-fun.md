@@ -1,4 +1,4 @@
-# Sentences
+# Linguistically odd sentences
 
 ### Semantic swap
 
@@ -13,6 +13,5 @@
 * A lame as hit, all aim a shit
 
 * A raisin racin' a race raising arrays 
-![/img/raisin.webp](/img/raisin.webp)
 
 * A plant-eating insect plan a tea-tinning sect

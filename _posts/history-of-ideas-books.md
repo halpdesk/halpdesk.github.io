@@ -1,4 +1,4 @@
-# Books to own
+# Books to learn more about the history of ideas
 
 These are the books I am interested in. I have read some of the books I own to some extent. Click on any book title to expand its description. It is also shown in red text which books I own.
 
