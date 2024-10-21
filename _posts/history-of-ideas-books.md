@@ -46,9 +46,15 @@ These are the books I am interested in. I have read some of the books I own to s
 | Tao Te Ching                                      | Laozi (4th century BCE)       | Taoism, philosophy, balance, and harmony         | This ancient Chinese text outlines the principles of Taoism. It advocates for living in harmony with the Tao, the underlying force that governs the universe. Through paradoxes and poetic language, the Tao Te Ching teaches simplicity, humility, and non-action as a means of achieving balance and peace. | Google books |
 | Bhagavad Gita                                     | Vyasa (circa 5th century BCE) | Hinduism, philosophy, duty, and spirituality     | A key Hindu scripture, the Bhagavad Gita is a conversation between Prince Arjuna and the god Krishna. It explores themes of duty, righteousness, and devotion, emphasizing the importance of performing one's duties selflessly and with spiritual insight. The Gita is a philosophical guide to life, action, and the pursuit of spiritual wisdom. | No copy |
 
-## Other authors and works
+## Other unsorted books
 
-Additionally, I am interested in the works of
+Society:
+* Collective illusions by Todd Rose
+
+Leadership:
+* The Friction Project by Bob Sutton
+
+## Novels and Fiction
 
 * Isaac Asimov
 * Karin Boye
