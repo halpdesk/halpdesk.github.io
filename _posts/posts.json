@@ -88,6 +88,11 @@
                 "file": "healthcare.md"
             },
             {
+                "title": "Consciousness",
+                "description": "Consciousness",
+                "file": "consciousness.md"
+            },
+            {
                 "title": "Drafts",
                 "description": "Drafts for articles",
                 "file": "drafts.md"

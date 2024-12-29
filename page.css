@@ -221,6 +221,14 @@ pre:has(code.shell, code.language-shell) {
     background: #151515;
 }
 
+/* WIP: CORRECTION */
+pre > code.wip {
+    font-family: 'LiberationSerif', serif;
+    color: #f80000;
+    font-size: 1em;
+    font-style: italic;
+}
+
 /* POEM */
 pre > code.poem, pre > code.language-poem {
     font-family: 'LiberationSerif', serif;
