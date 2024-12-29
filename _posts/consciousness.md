@@ -75,13 +75,13 @@ Modern AIs can interpret the world around it, but a conscious human does not onl
 
 I am going to construct a setup that brings about the piece of intentionality for an AI. Imagine a computer connected to a controller to play the traditional 2d-platformer game Super Mario Brothers from Nintendo.
 
-![mario.jpg](mario.jpg)
+![mario.jpg](/img/mario.jpg)
 
 The computer has a camera that records the screen and an AI that interprets what it sees integrated with a large-language model (LLM for short, such as ChatGPT). The LLM can well describe what it sees on the screen - the Mario character, the landscape formed by the the ground, bricks blocks and boxes, the mushrooms and flowers as well as the goombas (the critters that move against Mario). Just as ChatGPT, it can also reason what to do with the information it sees.
 
 I manually gave the visual information seen in the above pictures to ChatGPT as seen in the below screen short, but be assured there are technologies that can do this without human intervention.
 
-![mario-chatgpt.png](mario-chatgpt.png)
+![mario-chatgpt.png](/img/mario-chatgpt.png)
 
 We see that new intentions are formed from the LLM while it captures new information on the screen. The intentions are to clear the game, and the knowledge to do so comes from understanding what is happening to the game from the pre-trained AI. Without a pre-trained AI that knows what the game Mario Brothers is about, we could achieve the same results by giving it an instruction to not let Mario die (i.e. to not end up in a black screen showing the remaning lives of Mario). At each attempt, it would learn through evolutionary algorithms what not to do to not die, and continue to advance through the game. As such, we can see intentionality being formed from nothing more than a simple wish to "not die".
 

@@ -229,6 +229,11 @@ pre > code.wip {
     font-style: italic;
 }
 
+pre:has(code.wip) {
+    background: none;
+    border: 0px;
+}
+
 /* POEM */
 pre > code.poem, pre > code.language-poem {
     font-family: 'LiberationSerif', serif;
